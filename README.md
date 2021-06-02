@@ -1,3 +1,5 @@
 # Java_BankingSystem
 
-A Java Project, Aimed to make a better Inter-Net banking 
+A Java Project, Aimed to make a better Inter-Net banking experience accross the globe.
+
+Any Intrested Person may wellcome to edit and open a issue. Anytype of suggestion is highly helpful.
